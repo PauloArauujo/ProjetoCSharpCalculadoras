@@ -1,0 +1,10 @@
+C:\Users\paulo.hasousa1\source\repos\EmpresaABC\EmpresaABC\bin\Debug\EmpresaABC.exe.config
+C:\Users\paulo.hasousa1\source\repos\EmpresaABC\EmpresaABC\bin\Debug\EmpresaABC.exe
+C:\Users\paulo.hasousa1\source\repos\EmpresaABC\EmpresaABC\bin\Debug\EmpresaABC.pdb
+C:\Users\paulo.hasousa1\source\repos\EmpresaABC\EmpresaABC\obj\Debug\EmpresaABC.csproj.AssemblyReference.cache
+C:\Users\paulo.hasousa1\source\repos\EmpresaABC\EmpresaABC\obj\Debug\EmpresaABC.frmCalculadoraSimples.resources
+C:\Users\paulo.hasousa1\source\repos\EmpresaABC\EmpresaABC\obj\Debug\EmpresaABC.Properties.Resources.resources
+C:\Users\paulo.hasousa1\source\repos\EmpresaABC\EmpresaABC\obj\Debug\EmpresaABC.csproj.GenerateResource.cache
+C:\Users\paulo.hasousa1\source\repos\EmpresaABC\EmpresaABC\obj\Debug\EmpresaABC.csproj.CoreCompileInputs.cache
+C:\Users\paulo.hasousa1\source\repos\EmpresaABC\EmpresaABC\obj\Debug\EmpresaABC.exe
+C:\Users\paulo.hasousa1\source\repos\EmpresaABC\EmpresaABC\obj\Debug\EmpresaABC.pdb

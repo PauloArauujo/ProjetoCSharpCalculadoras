@@ -1,0 +1,10 @@
+C:\Users\paulo.hasousa1\source\repos\EmpresaABC\CalculadoraFrequencia\bin\Debug\CalculadoraFrequencia.exe.config
+C:\Users\paulo.hasousa1\source\repos\EmpresaABC\CalculadoraFrequencia\bin\Debug\CalculadoraFrequencia.exe
+C:\Users\paulo.hasousa1\source\repos\EmpresaABC\CalculadoraFrequencia\bin\Debug\CalculadoraFrequencia.pdb
+C:\Users\paulo.hasousa1\source\repos\EmpresaABC\CalculadoraFrequencia\obj\Debug\CalculadoraFrequencia.csproj.AssemblyReference.cache
+C:\Users\paulo.hasousa1\source\repos\EmpresaABC\CalculadoraFrequencia\obj\Debug\CalculadoraFrequencia.frmCalculadoraFrequencia.resources
+C:\Users\paulo.hasousa1\source\repos\EmpresaABC\CalculadoraFrequencia\obj\Debug\CalculadoraFrequencia.Properties.Resources.resources
+C:\Users\paulo.hasousa1\source\repos\EmpresaABC\CalculadoraFrequencia\obj\Debug\CalculadoraFrequencia.csproj.GenerateResource.cache
+C:\Users\paulo.hasousa1\source\repos\EmpresaABC\CalculadoraFrequencia\obj\Debug\CalculadoraFrequencia.csproj.CoreCompileInputs.cache
+C:\Users\paulo.hasousa1\source\repos\EmpresaABC\CalculadoraFrequencia\obj\Debug\CalculadoraFrequencia.exe
+C:\Users\paulo.hasousa1\source\repos\EmpresaABC\CalculadoraFrequencia\obj\Debug\CalculadoraFrequencia.pdb

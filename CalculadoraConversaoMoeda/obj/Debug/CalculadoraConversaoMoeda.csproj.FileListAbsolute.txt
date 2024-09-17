@@ -1,0 +1,10 @@
+C:\Users\paulo.hasousa1\source\repos\EmpresaABC\CalculadoraConversaoMoeda\bin\Debug\CalculadoraConversaoMoeda.exe.config
+C:\Users\paulo.hasousa1\source\repos\EmpresaABC\CalculadoraConversaoMoeda\bin\Debug\CalculadoraConversaoMoeda.exe
+C:\Users\paulo.hasousa1\source\repos\EmpresaABC\CalculadoraConversaoMoeda\bin\Debug\CalculadoraConversaoMoeda.pdb
+C:\Users\paulo.hasousa1\source\repos\EmpresaABC\CalculadoraConversaoMoeda\obj\Debug\CalculadoraConversaoMoeda.csproj.AssemblyReference.cache
+C:\Users\paulo.hasousa1\source\repos\EmpresaABC\CalculadoraConversaoMoeda\obj\Debug\CalculadoraConversaoMoeda.frmCalculadoraConverterMoeda.resources
+C:\Users\paulo.hasousa1\source\repos\EmpresaABC\CalculadoraConversaoMoeda\obj\Debug\CalculadoraConversaoMoeda.Properties.Resources.resources
+C:\Users\paulo.hasousa1\source\repos\EmpresaABC\CalculadoraConversaoMoeda\obj\Debug\CalculadoraConversaoMoeda.csproj.GenerateResource.cache
+C:\Users\paulo.hasousa1\source\repos\EmpresaABC\CalculadoraConversaoMoeda\obj\Debug\CalculadoraConversaoMoeda.csproj.CoreCompileInputs.cache
+C:\Users\paulo.hasousa1\source\repos\EmpresaABC\CalculadoraConversaoMoeda\obj\Debug\CalculadoraConversaoMoeda.exe
+C:\Users\paulo.hasousa1\source\repos\EmpresaABC\CalculadoraConversaoMoeda\obj\Debug\CalculadoraConversaoMoeda.pdb

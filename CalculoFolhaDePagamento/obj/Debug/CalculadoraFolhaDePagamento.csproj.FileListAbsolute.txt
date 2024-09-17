@@ -1,0 +1,10 @@
+C:\Users\paulo.hasousa1\source\repos\EmpresaABC\CalculoFolhaDePagamento\obj\Debug\CalculadoraFolhaDePagamento.csproj.AssemblyReference.cache
+C:\Users\paulo.hasousa1\source\repos\EmpresaABC\CalculoFolhaDePagamento\obj\Debug\CalculoFolhaDePagamento.frmFolhaPagamento.resources
+C:\Users\paulo.hasousa1\source\repos\EmpresaABC\CalculoFolhaDePagamento\obj\Debug\CalculoFolhaDePagamento.Properties.Resources.resources
+C:\Users\paulo.hasousa1\source\repos\EmpresaABC\CalculoFolhaDePagamento\obj\Debug\CalculadoraFolhaDePagamento.csproj.GenerateResource.cache
+C:\Users\paulo.hasousa1\source\repos\EmpresaABC\CalculoFolhaDePagamento\obj\Debug\CalculadoraFolhaDePagamento.csproj.CoreCompileInputs.cache
+C:\Users\paulo.hasousa1\source\repos\EmpresaABC\CalculoFolhaDePagamento\bin\Debug\CalculoFolhaDePagamento.exe.config
+C:\Users\paulo.hasousa1\source\repos\EmpresaABC\CalculoFolhaDePagamento\bin\Debug\CalculoFolhaDePagamento.exe
+C:\Users\paulo.hasousa1\source\repos\EmpresaABC\CalculoFolhaDePagamento\bin\Debug\CalculoFolhaDePagamento.pdb
+C:\Users\paulo.hasousa1\source\repos\EmpresaABC\CalculoFolhaDePagamento\obj\Debug\CalculoFolhaDePagamento.exe
+C:\Users\paulo.hasousa1\source\repos\EmpresaABC\CalculoFolhaDePagamento\obj\Debug\CalculoFolhaDePagamento.pdb
